@@ -1,2 +1,2 @@
-# Back-Propagation-Implementation
-Implementing backprop algortihm in python with other bells and whistles like multiple activations, intialization, dropout, normalization, etc.
+# MLP-Classifier-Implementation
+Implementing MLP Classifier with backprop algortihm in python with other bells and whistles like multiple activations, intialization, dropout, normalization, etc.
